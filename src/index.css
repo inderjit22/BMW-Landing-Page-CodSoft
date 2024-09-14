@@ -1,0 +1,17 @@
+@font-face {
+  font-family:TM;
+  src: url('../src/fonts/TrapMedium.ttf');
+}
+
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  font-family: TM;
+}
+html,body{
+  width: 100%;
+  height: 100vh;
+  background-color: #F5F5F5;
+  user-select: none;
+}
